@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YashSejani/GatiSanchar_realtime_groundwater_platform.git/static/css/main.db72187b.css",
+    "main.js": "/YashSejani/GatiSanchar_realtime_groundwater_platform.git/static/js/main.5281365f.js",
+    "index.html": "/YashSejani/GatiSanchar_realtime_groundwater_platform.git/index.html",
+    "main.db72187b.css.map": "/YashSejani/GatiSanchar_realtime_groundwater_platform.git/static/css/main.db72187b.css.map",
+    "main.5281365f.js.map": "/YashSejani/GatiSanchar_realtime_groundwater_platform.git/static/js/main.5281365f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db72187b.css",
+    "static/js/main.5281365f.js"
+  ]
+}
